@@ -93,4 +93,7 @@
     <string name="data_usage_app_restrict_wifi_summary">Enable usage of Wi\u2011Fi data</string>
     <string name="data_usage_app_restrict_all">Allow network access</string>
     <string name="data_usage_app_restrict_all_summary">Enable network usage</string>
+
+    <string name="show_gestures_navbar_switch_title">Show pill</string>
+    <string name="show_gestures_navbar_switch_summary">Show gestures navbar</string>
 </resources>
